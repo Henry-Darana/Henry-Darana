@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Henry Darana
 I'm a QA Manager and Automation Architect with a deep passion for delivering high-quality software products. With over 15 years of experience in software testing and automation, I have developed a strong foundation in both manual and automated testing. I'm an expert in designing, implementing, and maintaining test automation frameworks using various automation tools and programming languages. I lead and mentor teams to achieve their goals, always focusing on delivering the best possible product to our customers. I'm highly skilled in agile methodologies, continuous integration/continuous deployment (CI/CD) pipelines, and test management tools. I'm always exploring new technologies and methodologies to enhance our automation processes and deliver better products. I'm experienced in integrating automation into the development pipeline and have a track record of reducing testing time and costs while increasing test coverage and quality.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henry-Darana&label=Profile%20views&color=lightgrey&style=flat-square&abbreviated=true" alt="Henry-Darana" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Henry-Darana&theme=dark_dimmed&no-frame=true&no-bg=true" alt="Henry-Darana" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henrydarana/) 
@@ -16,6 +18,5 @@ I'm a QA Manager and Automation Architect with a deep passion for delivering hig
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Henry-Darana&icon=5&color=0)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=Henry-Darana&icon=5&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
