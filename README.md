@@ -1,6 +1,16 @@
 # 💫 Hi 👋, I'm Henry Darana
 I'm a QA Manager and Automation Architect with a deep passion for delivering high-quality software products. With over 15 years of experience in software testing and automation, I have developed a strong foundation in both manual and automated testing. I'm an expert in designing, implementing, and maintaining test automation frameworks using various automation tools and programming languages. I lead and mentor teams to achieve their goals, always focusing on delivering the best possible product to our customers. I'm highly skilled in agile methodologies, continuous integration/continuous deployment (CI/CD) pipelines, and test management tools. I'm always exploring new technologies and methodologies to enhance our automation processes and deliver better products. I'm experienced in integrating automation into the development pipeline and have a track record of reducing testing time and costs while increasing test coverage and quality.
 
+<div align="center">
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henry-Darana/Henry-Darana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Henry-Darana/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henry-Darana/Henry-Darana/output/github-contribution-grid-snake.svg">
+</picture>
+  <br>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Henry-Darana&label=Profile%20views&color=lightgrey&style=flat-square&abbreviated=true" alt="Henry-Darana" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Henry-Darana&theme=dark_dimmed&no-frame=true&no-bg=true" alt="Henry-Darana" /></a> </p>
 
